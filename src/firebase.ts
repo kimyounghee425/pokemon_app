@@ -5,12 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyD_ET3xjF-NLOpvnMFkxMcUnVfNCU_CDtE",
-    authDomain: "react-poke-app-e92ad.firebaseapp.com",
-    projectId: "react-poke-app-e92ad",
-    storageBucket: "react-poke-app-e92ad.appspot.com",
-    messagingSenderId: "729117616519",
-    appId: "1:729117616519:web:fb38b8f3c89fdd46800b22"
+    apiKey: "AIzaSyAd2E2w-Pk6AA4Wd0A6PiQ7FRc3R3xB0gs",
+  authDomain: "pokemon-app0425.firebaseapp.com",
+  projectId: "pokemon-app0425",
+  storageBucket: "pokemon-app0425.firebasestorage.app",
+  messagingSenderId: "1049462385999",
+  appId: "1:1049462385999:web:a46822a1d68b117e91a93a",
+  measurementId: "G-0NWQGJ669H"
 };
 
 // Initialize Firebase
